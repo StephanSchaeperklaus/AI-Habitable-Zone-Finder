@@ -1,0 +1,9 @@
+# Required external libraries for AIHabitablezone
+numpy
+matplotlib
+pandas
+astropy
+plotly
+
+# tkinter is part of the standard library for Python installations with Tk support
+# If your environment does not have tkinter installed, refer to your OS-specific instructions.
